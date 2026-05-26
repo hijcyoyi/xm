@@ -1,0 +1,6 @@
+{
+  "name": "韓國探索網",
+  "description": "探索最精彩的韓國：包含韓國旅遊自由行、韓流影視、道地文化與生活指南。這是一個內建強大 CMS 管理功能與圖片壓縮處理的部落格平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
